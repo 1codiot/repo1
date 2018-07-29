@@ -2,4 +2,4 @@
 This is just for hands-on github command line tool.
 Wow I have changed something in README.md file
 
-This is very wonerful software I like guthub from the bottom of my heart.
+This is very wonderful software I like github from the bottom of my heart.
