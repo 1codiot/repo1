@@ -4,7 +4,7 @@ class MyClass
   public static void main(String args[])
   {  
      int a=10, b=40;
-     int c = 55;
+     int c = 10;
     
      System.out.println("Addition of 2 numberes: "+c);
   }
